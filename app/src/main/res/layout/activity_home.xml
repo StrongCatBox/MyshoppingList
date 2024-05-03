@@ -29,7 +29,6 @@
         android:text="Mode sombre"
         android:layout_marginBottom="16dp"/>
 
-
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fabMenu"
         android:layout_width="wrap_content"
@@ -39,8 +38,5 @@
         android:layout_marginBottom="16dp"
         android:contentDescription="Menu"
         android:backgroundTint="@color/colorPrimary"/>
-
-
-
 
 </LinearLayout>

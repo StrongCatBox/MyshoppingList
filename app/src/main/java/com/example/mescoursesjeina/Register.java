@@ -63,6 +63,6 @@ public class Register extends AppCompatActivity {
     private void retournerPageLogin() {
         Intent intent = new Intent(Register.this, Login.class);
         startActivity(intent);
-        finish(); // Optionnel : pour fermer l'activité actuelle et éviter de revenir en arrière avec le bouton de retour
+        finish();
     }
 }

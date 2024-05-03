@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_activity1"
+        android:title="Compte Utilisateur" />
+    <item
+        android:id="@+id/action_activity2"
+        android:title="Creation de la liste des courses" />
+    <item
+        android:id="@+id/action_activity3"
+        android:title="Visualisation de la liste des courses" />
+    <item
+        android:id="@+id/action_activity4"
+        android:title="Visualisation de la liste archivé" />
+</menu>
